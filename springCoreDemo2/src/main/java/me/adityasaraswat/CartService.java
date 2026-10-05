@@ -1,7 +1,0 @@
-package me.adityasaraswat;
-
-public class CartService {
-    public void addToCart(){
-        System.out.println("Added to cart");
-    }
-}
